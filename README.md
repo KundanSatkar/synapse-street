@@ -1,5 +1,5 @@
 # Synapse Street
-**AI Multi-Agent System for Stock Market Short Detection**
+**AI multi-agent system detecting stock market short opportunities using LangGraph agents, Qdrant vector search, and HDFS pipelines.**
 
 > **Original Project**: UB Hacking 2024 | **Contributors**: Siddharth Adhikari, Sathwick Kiran M S, Kundan Satkar, Mrudula Deshmukh
 
