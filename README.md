@@ -141,7 +141,7 @@ Synapse Street solves this with a collaborative multi-agent architecture that mi
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/mrudula1501/Synapse-Street.git
+git clone https://github.com/KundanSatkar/synapse-street.git
 cd Synapse-Street
 
 # 2. Start Qdrant
@@ -293,8 +293,7 @@ Synapse-Street/
 
 > *"The multi-agent approach to financial analysis is genuinely novel. Most teams used single LLM calls; this team architected a collaborative system that mirrors real trading desks."* — Judges' Feedback
 
-**Team:** Mrudula Deshmukh (ML Engineer, Vector Search) · Teammate 1 (Frontend) · Teammate 2 (Data Engineering) · Teammate 3 (Strategy)
-
+**Team:** Kundan Satkar (Data Engineering, ETL Pipelines) · Mrudula Deshmukh (ML Engineer, Vector Search) · Siddharth Adhikari · Sathwick Kiran
 ---
 
 ## 📄 License
@@ -306,10 +305,8 @@ MIT License — see [LICENSE](LICENSE)
 ---
 
 ## 📬 Contact
+**Kundan Satkar** — Data Engineering & Pipeline Architecture
 
-**Mrudula Deshmukh**
-
-[![GitHub](https://img.shields.io/badge/GitHub-mrudula1501-181717?style=flat&logo=github)](https://github.com/mrudula1501)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mrudula1501.github.io-10B981?style=flat&logo=githubpages&logoColor=white)](https://mrudula1501.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dmrudula-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmrudula/)
-[![Email](https://img.shields.io/badge/Email-mrudulad25@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mrudulad25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kundan%20Satkar-blue?logo=linkedin)](https://www.linkedin.com/in/kundan-satkar)
+[![GitHub](https://img.shields.io/badge/GitHub-KundanSatkar-black?logo=github)](https://github.com/KundanSatkar)
+[![Email](https://img.shields.io/badge/Email-kundansatkar0%40gmail.com-red?logo=gmail)](mailto:kundansatkar0@gmail.com)
